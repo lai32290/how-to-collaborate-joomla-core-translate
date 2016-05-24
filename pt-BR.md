@@ -1,7 +1,6 @@
 ## Como colaborar na tradução do core do Joomla
 
-- [English](README.md)
-- Português
+Language: [English](README.md) | Português
 
 Para colaborar na tradução do core do Joomla, o processo é bem simples.
 

@@ -1,7 +1,6 @@
 ## How to collaborate Joomla core translate
 
-- English
-- [Português](pt-BR.md)
+Language: English | [Português](pt-BR.md)
 
 For collaborate Joomla core translate, the process is very simple.
 
