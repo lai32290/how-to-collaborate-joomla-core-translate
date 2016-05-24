@@ -1,8 +1,11 @@
 ## Como colaborar na tradução do core do Joomla
 
+- [English](README.md)
+- Português
+
 Para colaborar na tradução do core do Joomla, o processo é bem simples.
 
-Para facilitar a vida de tudo mundo, as traduções são feitas numa plataforma de chamado [Corwdin](https://crowdin.com/).
+Para facilitar a vida de tudo mundo, as traduções são feitas numa plataforma chamado [Corwdin](https://crowdin.com/).
 
 Basta entrar no site e se cadastrar, sem nenhum segredo.
 
@@ -16,7 +19,7 @@ Depois de logar na conta, entrar na página de perfil, e no canto direito superi
 
 <hr>
 
-Basta procurar por Joomla CMS, ou acessar [esse link](https://crowdin.com/project/joomla-cms), e encontrará o projeto do core do Joomla:
+Basta procurar por **Joomla CMS**, ou acessar [esse link](https://crowdin.com/project/joomla-cms), e encontrará o projeto do core do Joomla:
 
 ![Search Result][search-result]
 
